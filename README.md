@@ -1,7 +1,10 @@
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+
+[![Build Status](https://dev.azure.com/pfd0494/gitcalc/_apis/build/status/Crapatrick.calculator)](https://dev.azure.com/pfd0494/gitcalc/_build/latest?definitionId=1)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
